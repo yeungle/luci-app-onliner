@@ -1,5 +1,5 @@
 msgid "Online User"
-msgstr "联机用户"
+msgstr "在线用户"
 
 msgid "speed monitoring"
 msgstr "实时网速监控"
